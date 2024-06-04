@@ -10,7 +10,7 @@ let HEIGHT = 480;
 
 //grid cells configurations
 let grid_drawing = false;
-let tile_size = parseInt(prompt("Enter the grid tile size"), 10);
+let tile_size = parseInt(prompt("Enter the grid size"), 10);
 
 //canvas configuration
 canvas.width = WIDTH;
@@ -19,7 +19,7 @@ canvas.height = HEIGHT;
 
 
 function DrawGrid() {
-    ctx.fillStyle = "#fff";
+    ctx.fillStyle = "#cfcfcf";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
     ctx.fillStyle = "#000";

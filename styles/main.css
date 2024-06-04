@@ -1,5 +1,5 @@
 body {
-    background: #151e19;
+    background: #121212;
     font-family: 'Genos', sans-serif;
     color: white;
 }
@@ -8,17 +8,16 @@ body {
 
     h1 {
         margin-left: 45px;
-        font-size: 20px;
-        color: #00c5ab;
+        color: #ffffff;
     }
 
     h2 {
-        color: #00c5ab;
+        color: #ffffff;
     }
     
     #grid {
         margin-left: 10%;
-        border: 5px solid #00dfc2;
+        border: 2px solid #ffffff;
     }
 
     .elements {
@@ -36,17 +35,16 @@ body {
 
     h1 {
         margin-left: 45px;
-        font-size: 20px;
-        color: #00c5ab;
+        color: #ffffff;
     }
 
     h2 {
-        color: #00c5ab;
+        color: #ffffff;
     }
     
     #grid {
         margin-left: 45px;
-        border: 5px solid #00dfc2;
+        border: 3px solid #ffffff;
     }
 
     .elements {
@@ -64,17 +62,16 @@ body {
 @media(min-width: 1200px) {
     h1 {
         margin-left: 45px;
-        font-size: 40px;
-        color: #00c5ab;
+        color: #ffffff;
     }
     
     h2 {
-        color: #00c5ab;
+        color: rgb(255, 255, 255);
     }
     
     #grid {
         margin-left: 45px;
-        border: 5px solid #00dfc2;
+        border: 2px solid #ffffff;
     }
     
     .elements {
